@@ -8,17 +8,17 @@ and i create vfx videos 🃏
 
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
-&nbsp &nbsp &nbsp &nbsp &nbsp My skills
+###My skills
 
-Front-End 💻
+Front-End 💻 <br>
 HTML, CSS, BootStrap, JavaScript, ReactJS
 
 
-Back-end 🖥️
+Back-end 🖥️ <br>
 Python, Postgresql, Django, Flask
 
 
-Others 🤟
+Others 🤟 <br>
 Blender, Python-Tkinter, Telegram-bot, After Effects, Sony Vegas pro, Photoshop
 
 
