@@ -1,4 +1,4 @@
-### Hi there <image src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="480">
+### Hi there <image src="https://giphy.com/embed/w1OBpBd7kJqHrJnJ13" width="80">
 
 
 **Linuxil/Linuxil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
