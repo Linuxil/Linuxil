@@ -22,5 +22,7 @@ Python, Postgresql, Django, Flask
 Others 🤟 <br>
 Blender, Python-Tkinter, Telegram-bot, After Effects, Sony Vegas pro, Photoshop
 
+Follow me for useful information
+
 
 
