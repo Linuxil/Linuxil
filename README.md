@@ -7,8 +7,8 @@ I am full stack web developer 🧑‍💻 <br>
 and i create vfx videos 🃏
 
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
-My skills
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp My skills
 
 Front-End 💻
 HTML, CSS, BootStrap, JavaScript, ReactJS
